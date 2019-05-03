@@ -1,0 +1,6 @@
+[submodule "system-invoiceplane"]
+	path = system-invoiceplane
+	url = https://github.com/WFODF/System-InvoicePlane.git
+[submodule "mymodule001"]
+	path = mymodule001
+	url = https://github.com/ly1966/System-InvoicePlane.git
